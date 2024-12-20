@@ -1,4 +1,4 @@
-# Assignemnt 1
+# Assignment 1
 
 ## Lab 1
 
